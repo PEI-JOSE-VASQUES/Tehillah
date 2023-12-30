@@ -1,0 +1,131 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background: rgb(207, 8, 8);
+    height: auto;
+    width: auto;
+    }
+    .b1{
+      width: 235px;
+      height: 235px;
+  }
+    #pesquisa {
+      width: 50vb;
+      height: 40px;
+margin-top: 30px;
+margin-left: -20px;
+      border-radius: 10px;
+      border: 0px;
+      }
+      div#nome1 {
+        margin-left: 90px;
+        margin-right: 50px;
+        height: 90px;
+        width: 90px;
+    
+        }
+        #n1{
+          font-size: 29pt;
+           margin-top: 36px; 
+           font-family: 'es','sans-serif';
+           margin-left: -20px;
+           margin-right: -20px;
+           padding: 0px;
+     }
+     #copyread{
+        font-size: 5pt;
+    }
+     #nome{
+      font-family:es, 'sans-serif'; 
+      font-size: 11px;
+      margin-left: 0px;
+    }
+    #lupa {
+      width: 40px;
+      height: 40px;
+      border: 0px;
+      margin: 30px 21px 0px -95px;
+      }
+      #contat{
+        width: 40px;
+   height: 40px;  
+   margin-top: 30px;
+   margin-left: 10px;
+   margin-right: -0px;
+}
+#copyread{
+    font-size: 15px;
+   }
+   #nome{
+    font-family:es, 'sans-serif'; 
+    font-size: 15px;
+  }
+  #tele{
+    white-space: nowrap;
+     font-size:19pt;
+      margin-top: 35px;
+}
+#cabecalho {
+    border-bottom: 9px rgb(137, 111, 189) solid;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 110px;
+    background: linear-gradient(to top left, yellow, rgb(0, 161, 236));
+    margin: -9px -9px 9px -9px;
+    }
+    #img1 {
+      margin: 9;
+      width: 50px;
+      height: 80px;
+      }
+      #pv1{
+        font-size: 17px;
+        }
+        #pv2{
+        font-size: 17px;
+        }
+        #pv3{
+        font-size: 17px;
+        }
+        #pv4{
+          font-size: 17px;
+        }
+        #pv5{
+        font-size: 17px;
+        }
+        #pv6{
+        font-size: 17px;
+        }
+        #pv7{
+        font-size: 17px;
+        }
+        #pv8{
+        font-size: 17px;
+        }             
+        #pv9{
+        font-size: 17px;
+        }
+        .search-container {
+          position: relative;
+          display: inline-block;
+      }
+     
+      .search-input {
+          padding-right: 40px;
+      }
+     
+      .search-icon {
+          position: absolute;
+          top: 46%;
+          right: 1px;
+          transform: translateY(-50%);
+          cursor: pointer;
+      }
+        #lupaa{
+          width:45px;
+        }
